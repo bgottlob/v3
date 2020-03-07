@@ -1,3 +1,4 @@
+enums help you program declaratively and increase readability for complex programs.
 
 Rust enums are also called algebraic data types. Why does this matter? Enumerations are a popular concept and programming languages implement them differently. Functional programming has influenced Rust's design and the `enum` implementation demonstrates that.
 
